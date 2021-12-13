@@ -8,5 +8,9 @@ namespace Module3HW3
 {
     public class Class1
     {
+        public int Pow(int x, int y)
+        {
+            return x * y;
+        }
     }
 }
