@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace Module3HW3
 {
-    public class Class1
+    public class Class2
     {
-        public Func<bool> Func;
-
-        public int Pow(int x, int y)
-        {
-            return x * y;
-        }
     }
 }
