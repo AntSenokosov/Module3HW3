@@ -8,7 +8,7 @@ namespace Module3HW3
 {
     public class Class1
     {
-        public Func<bool> Func;
+        delegate void V(bool isShow);
 
         public int Pow(int x, int y)
         {
